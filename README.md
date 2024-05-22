@@ -1,5 +1,5 @@
 # Machine learning for IV to oral antibiotic switching in Imperial College Healthcare NHS Trust (ICHT)
-This repository contains the code used for developing machine learning models to support IV to oral antibiotic switching within Imperial College Healthcare NHS Trust. Research was conducted in Imperial Clinical Analytics, Research and Evaluation (iCARE).
+This repository contains the code used for developing machine learning models to support IV to oral antibiotic switching within Imperial College Healthcare NHS Trust. Research was conducted in Imperial Clinical Analytics, Research and Evaluation (iCARE). Notebooks are split up into five sections covering patients and their vitals, prospective data, comorbidity data, results and case vignettes respectively.
 
 If you use this code please cite this code repository and our associated publication. 
 
